@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bc8c16c-f335-47e1-ae4e-850c43fb98aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week 10/Asd.py" afterDir="false" />
-    </list>
+    <list default="true" id="6bc8c16c-f335-47e1-ae4e-850c43fb98aa" name="Changes" comment="Week 10\" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lesbayaidosik-source"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lesbayaidosik-source/ExamProjectAidos32.git&quot;,
+    &quot;accountId&quot;: &quot;355b9a79-ee1f-4bfa-b78f-9ce1f5abaaac&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -78,7 +87,20 @@
       <option name="presentableId" value="Default" />
       <updated>1775554021731</updated>
     </task>
+    <task id="LOCAL-00001" summary="Week 10\">
+      <option name="closed" value="true" />
+      <created>1775554746719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775554746719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week 10\" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 10\" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
