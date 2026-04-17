@@ -15,3 +15,10 @@
 #
 # # Нәтижені тексеру
 # print(x)
+
+
+# # 4. AR(1) циклі (Loop)
+# x[0] = eps[0]
+# for t in range(1, T):
+#     x[t] = a * x[t-1] + eps[t]
+#
